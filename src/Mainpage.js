@@ -213,9 +213,7 @@ function Mainpage() {
           <h2>8870994519</h2>
           <h4>E-mail</h4>
           <h2>
-            <a href="mailto:snthineshraj2002@gmail.com">
-              jenithraj2001@gmail.com
-            </a>
+            <a href="mailto:jenithraj2001@gmail.com">jenithraj2001@gmail.com</a>
           </h2>
           <Link to="https://www.linkedin.com/in/jenithraj" className="linkin">
             <FaLinkedinIn />
